@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ClubFootball</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Persib FC</item>
+        <item>Real Madrid FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Arema FC</item>
+        <item>Persija FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/persib</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/arema</item>
+        <item>@drawable/persija</item>
+
+    </array>
+
+    <string-array name="club_keterangan">
+        <item>Barcelona FC didirikan oleh Joan Gamper pada 29 November 1899</item>
+        <item>Persib didirikan oleh Mr Syamsudin pada tahun 1933</item>
+        <item>Real Madrid didirikan oleh Juan Pedros pada 6 Mar 1902</item>
+        <item>Manchester City didirikan oleh Thomas Goodbehere pada November 1880 </item>
+        <item>Manchester United didirikan oleh Lancashire and Yorkshire Railway pada tahun 1878</item>
+        <item>Arema didirikan oleh Opan Tobing pada 11 Agustus 1987</item>
+        <item>Persija didirikan oleh A Hamid pada 28 November 1982</item>
+    </string-array>
+</resources>
